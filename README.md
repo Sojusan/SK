@@ -1,5 +1,5 @@
 # SK
-Programy z zajęć sieci komputerowych:
+Programy z zajęć sieci komputerowych (i dodatkowe na wykład):
   * przykładowe wykorzystanie funkcji ptrace
   * własny sniffer
   * serwer RPC
